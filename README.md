@@ -1,2 +1,8 @@
-# Pyhton_Learning
-Pyhton | Sololearn
+# Pyhton Learning 
+|  Pyhton |
+|---|
+|a. Datacamp|
+|b. Sololearn|
+|c. Youtube|
+
+###### online learning platforms
