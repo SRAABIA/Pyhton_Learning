@@ -1,0 +1,5 @@
+file = open("text.txt","r")
+cont = file.read(5)
+print(cont)
+# print(file.read(4))
+file.close() 
